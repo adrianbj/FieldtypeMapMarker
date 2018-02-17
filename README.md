@@ -65,9 +65,9 @@ echo $page->address->state       // outputs the state
 echo $page->address->postcode    // outputs the postcode
 echo $page->address->country     // outputs the country
 echo $page->map->address;        // outputs the address you entered
-echo $page->map->lat; 		      // outputs the latitude
-echo $page->map->lng; 		      // outputs the longitude
-echo $page->map->zoom;		      // outputs the zoom level
+echo $page->map->lat;            // outputs the latitude
+echo $page->map->lng;            // outputs the longitude
+echo $page->map->zoom;           // outputs the zoom level
 `````````
 
 -------------
